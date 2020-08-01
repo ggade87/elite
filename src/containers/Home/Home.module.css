@@ -1,0 +1,6 @@
+.Home {
+  background-image: url("../../assets/images/bg.jpg");
+  background-repeat: repeat;
+  background-size: cover;
+  height: 1000px;
+}
